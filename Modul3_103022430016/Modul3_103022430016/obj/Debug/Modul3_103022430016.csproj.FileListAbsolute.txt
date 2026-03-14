@@ -1,0 +1,10 @@
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\bin\Debug\Modul3_103022430016.exe.config
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\bin\Debug\Modul3_103022430016.exe
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\bin\Debug\Modul3_103022430016.pdb
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\obj\Debug\Modul3_103022430016.csproj.AssemblyReference.cache
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\obj\Debug\Modul3_103022430016.Form1.resources
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\obj\Debug\Modul3_103022430016.Properties.Resources.resources
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\obj\Debug\Modul3_103022430016.csproj.GenerateResource.cache
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\obj\Debug\Modul3_103022430016.csproj.CoreCompileInputs.cache
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\obj\Debug\Modul3_103022430016.exe
+C:\rizkya\Modul3_103022430016\Modul3_103022430016\obj\Debug\Modul3_103022430016.pdb
